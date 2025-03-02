@@ -12,7 +12,9 @@ Print the number of trailing zeros in n!.
 
 Constraints
 
+$$
 1 \le n \le 10^9
+$$
 
 Example
 
